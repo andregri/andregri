@@ -35,7 +35,7 @@ My favorite ones are C++, Python, Go, and Docker.
 <!-- BLOG-POST-LIST:END -->
  
  
-## 🛠️ Recent Activities on GitHub
+## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/andregri/course-jenkins-getting-started/issues/1) in [andregri/course-jenkins-getting-started](https://github.com/andregri/course-jenkins-getting-started)
@@ -47,7 +47,7 @@ My favorite ones are C++, Python, Go, and Docker.
  
 ---
 
-## 🖥⌨ Most used Languages 
+## 🛠️ Most used Languages 
 
-![](https://github.com/andregri/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/andregri/github-stats/blob/master/generated/languages.svg)
+![](generated/overview.svg)
+![](generated/languages.svg)
