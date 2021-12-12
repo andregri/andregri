@@ -49,5 +49,5 @@ My favorite ones are C++, Python, Go, and Docker.
 
 ## 🛠️ Most used Languages 
 
-![](https://github.com/andregri/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/andregri/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/andregri/andregri/blob/master/generated/overview.svg)
+![](https://github.com/andregri/andregri/blob/master/generated/languages.svg)
