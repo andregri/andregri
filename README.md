@@ -7,7 +7,13 @@
 &ensp;<a href="https://github.com/andregri"><img src="img/logos/github.png" title="GitHub" alt="GitHub" width="30"/></a>
 <br>
 
-I am a developer.
+I am working in Linux, C++, and Qt.
+
+I am developing my personal projects with Python, Golang, and Docker.
+
+I am learning Golang, Docker, Kubernetes, and cloud services.
+
+I am interested in DevOps and cloud-native developments.
 
 ___
 
