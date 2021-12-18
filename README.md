@@ -33,11 +33,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## 📰 Recent articles on my Blog
 
  <!-- BLOG-POST-LIST:START -->
-- [Integer Limits](https://andregri.github.io/integer-limits/)
+- [Cpp Function Template](https://andregri.github.io/cpp-function-template/)
+- [Go Integer Limits](https://andregri.github.io/go-integer-limits/)
 - [Weekly 03](https://andregri.github.io/weekly-03/)
 - [Weekly 02](https://andregri.github.io/weekly-02/)
 - [Weekly 01](https://andregri.github.io/weekly-01/)
-- [Hsctf2020 Binary Exploitation Boredom](https://andregri.github.io/hsctf2020-binary-exploitation-boredom/)
 <!-- BLOG-POST-LIST:END -->
  
  
