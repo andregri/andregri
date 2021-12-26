@@ -36,8 +36,8 @@ My favorite ones are C++, Python, Go, and Docker.
 - [Merging a local repository to an existing remote repository](https://andregri.github.io/Merge-local-repository-to-existing-remote-repository/)
 - [Where to implement C++ function templates](https://andregri.github.io/cpp-function-template/)
 - [Computing integer limits in Golang](https://andregri.github.io/go-integer-limits/)
-- [Weekly 03](https://andregri.github.io/weekly-03/)
-- [Weekly 02](https://andregri.github.io/weekly-02/)
+- [Weekly 3 - Debugging network applications and IPFS](https://andregri.github.io/weekly/weekly-03/)
+- [Weekly 2 - Code coverage, IPFS, QUIC transport protocol](https://andregri.github.io/weekly/weekly-02/)
 <!-- BLOG-POST-LIST:END -->
  
  
