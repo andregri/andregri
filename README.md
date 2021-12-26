@@ -33,9 +33,9 @@ My favorite ones are C++, Python, Go, and Docker.
 ## 📰 Recent articles on my Blog
 
  <!-- BLOG-POST-LIST:START -->
-- [Merge Local Repository To Existing Remote Repository](https://andregri.github.io/Merge-local-repository-to-existing-remote-repository/)
-- [Cpp Function Template](https://andregri.github.io/cpp-function-template/)
-- [Go Integer Limits](https://andregri.github.io/go-integer-limits/)
+- [Merging a local repository to an existing remote repository](https://andregri.github.io/Merge-local-repository-to-existing-remote-repository/)
+- [Where to implement C++ function templates](https://andregri.github.io/cpp-function-template/)
+- [Computing integer limits in Golang](https://andregri.github.io/go-integer-limits/)
 - [Weekly 03](https://andregri.github.io/weekly-03/)
 - [Weekly 02](https://andregri.github.io/weekly-02/)
 <!-- BLOG-POST-LIST:END -->
