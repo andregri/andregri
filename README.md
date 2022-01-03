@@ -44,11 +44,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/andregri/go-gin-sqlite-metroRailAPI-/pull/2) in [andregri/go-gin-sqlite-metroRailAPI-](https://github.com/andregri/go-gin-sqlite-metroRailAPI-)
-2. 💪 Opened PR [#2](https://github.com/andregri/go-gin-sqlite-metroRailAPI-/pull/2) in [andregri/go-gin-sqlite-metroRailAPI-](https://github.com/andregri/go-gin-sqlite-metroRailAPI-)
-3. 🎉 Merged PR [#1](https://github.com/andregri/go-gin-sqlite-metroRailAPI-/pull/1) in [andregri/go-gin-sqlite-metroRailAPI-](https://github.com/andregri/go-gin-sqlite-metroRailAPI-)
-4. 💪 Opened PR [#1](https://github.com/andregri/go-gin-sqlite-metroRailAPI-/pull/1) in [andregri/go-gin-sqlite-metroRailAPI-](https://github.com/andregri/go-gin-sqlite-metroRailAPI-)
-5. 🎉 Merged PR [#1](https://github.com/andregri/roman-numbers-server-restful/pull/1) in [andregri/roman-numbers-server-restful](https://github.com/andregri/roman-numbers-server-restful)
+1. 💪 Opened PR [#1](https://github.com/andregri/OurEnergy/pull/1) in [andregri/OurEnergy](https://github.com/andregri/OurEnergy)
+2. ❗️ Opened issue [#336](https://github.com/reactjs/it.reactjs.org/issues/336) in [reactjs/it.reactjs.org](https://github.com/reactjs/it.reactjs.org)
+3. 🗣 Commented on [#1](https://github.com/andregri/bus-stop-map/issues/1) in [andregri/bus-stop-map](https://github.com/andregri/bus-stop-map)
+4. 💪 Opened PR [#1](https://github.com/andregri/bus-stop-map/pull/1) in [andregri/bus-stop-map](https://github.com/andregri/bus-stop-map)
+5. 🎉 Merged PR [#1](https://github.com/andregri/pymedium/pull/1) in [andregri/pymedium](https://github.com/andregri/pymedium)
 <!--END_SECTION:activity-->
  
 ---
