@@ -44,11 +44,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/andregri/AiFame/issues/3) in [andregri/AiFame](https://github.com/andregri/AiFame)
-2. ❗️ Opened issue [#37](https://github.com/pietroppeter/wordle-it/issues/37) in [pietroppeter/wordle-it](https://github.com/pietroppeter/wordle-it)
-3. ❗️ Opened issue [#36](https://github.com/pietroppeter/wordle-it/issues/36) in [pietroppeter/wordle-it](https://github.com/pietroppeter/wordle-it)
-4. 🎉 Merged PR [#2](https://github.com/andregri/AiFame/pull/2) in [andregri/AiFame](https://github.com/andregri/AiFame)
-5. 💪 Opened PR [#2](https://github.com/andregri/AiFame/pull/2) in [andregri/AiFame](https://github.com/andregri/AiFame)
+1. 🎉 Merged PR [#4](https://github.com/andregri/AiFame/pull/4) in [andregri/AiFame](https://github.com/andregri/AiFame)
+2. 💪 Opened PR [#4](https://github.com/andregri/AiFame/pull/4) in [andregri/AiFame](https://github.com/andregri/AiFame)
+3. ❗️ Opened issue [#3](https://github.com/andregri/AiFame/issues/3) in [andregri/AiFame](https://github.com/andregri/AiFame)
+4. ❗️ Opened issue [#37](https://github.com/pietroppeter/wordle-it/issues/37) in [pietroppeter/wordle-it](https://github.com/pietroppeter/wordle-it)
+5. ❗️ Opened issue [#36](https://github.com/pietroppeter/wordle-it/issues/36) in [pietroppeter/wordle-it](https://github.com/pietroppeter/wordle-it)
 <!--END_SECTION:activity-->
  
 ---
