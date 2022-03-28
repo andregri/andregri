@@ -44,11 +44,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/andregri/andregri.github.io/pull/6) in [andregri/andregri.github.io](https://github.com/andregri/andregri.github.io)
-2. 💪 Opened PR [#6](https://github.com/andregri/andregri.github.io/pull/6) in [andregri/andregri.github.io](https://github.com/andregri/andregri.github.io)
-3. 🎉 Merged PR [#5](https://github.com/andregri/andregri.github.io/pull/5) in [andregri/andregri.github.io](https://github.com/andregri/andregri.github.io)
-4. 🎉 Merged PR [#2](https://github.com/andregri/bus-stop-map/pull/2) in [andregri/bus-stop-map](https://github.com/andregri/bus-stop-map)
-5. 💪 Opened PR [#2](https://github.com/andregri/bus-stop-map/pull/2) in [andregri/bus-stop-map](https://github.com/andregri/bus-stop-map)
+1. 💪 Opened PR [#85](https://github.com/gin-contrib/cors/pull/85) in [gin-contrib/cors](https://github.com/gin-contrib/cors)
+2. 🎉 Merged PR [#6](https://github.com/andregri/andregri.github.io/pull/6) in [andregri/andregri.github.io](https://github.com/andregri/andregri.github.io)
+3. 💪 Opened PR [#6](https://github.com/andregri/andregri.github.io/pull/6) in [andregri/andregri.github.io](https://github.com/andregri/andregri.github.io)
+4. 🎉 Merged PR [#5](https://github.com/andregri/andregri.github.io/pull/5) in [andregri/andregri.github.io](https://github.com/andregri/andregri.github.io)
+5. 🎉 Merged PR [#2](https://github.com/andregri/bus-stop-map/pull/2) in [andregri/bus-stop-map](https://github.com/andregri/bus-stop-map)
 <!--END_SECTION:activity-->
  
 ---
