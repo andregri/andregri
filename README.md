@@ -33,11 +33,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## 📰 Recent articles on my Blog
 
  <!-- BLOG-POST-LIST:START -->
+- [First post publish automatically to Medium using a Github action](https://andregri.github.io/First-post-action/)
 - [Host a web application with AWS S3 and EC2](https://andregri.github.io/Host-webapp-in-S3-and-EC2/)
 - [Pipeline to deploy Azure App Service](https://andregri.github.io/Pipeline-to-deploy-App-Service/)
 - [Merging a local repository to an existing remote repository](https://andregri.github.io/Merge-local-repository-to-existing-remote-repository/)
 - [Where to implement C++ function templates](https://andregri.github.io/cpp-function-template/)
-- [Computing integer limits in Golang](https://andregri.github.io/go-integer-limits/)
 <!-- BLOG-POST-LIST:END -->
  
  
