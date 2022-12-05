@@ -44,8 +44,8 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/massdriver-cloud/terraform-provider-jq/issues/5) in [massdriver-cloud/terraform-provider-jq](https://github.com/massdriver-cloud/terraform-provider-jq)
-2. 💪 Opened PR [#409](https://github.com/hashicorp/vault-guides/pull/409) in [hashicorp/vault-guides](https://github.com/hashicorp/vault-guides)
+1. ❗️ Opened issue [#177](https://github.com/blabla1337/skf-labs/issues/177) in [blabla1337/skf-labs](https://github.com/blabla1337/skf-labs)
+2. ❗️ Opened issue [#5](https://github.com/massdriver-cloud/terraform-provider-jq/issues/5) in [massdriver-cloud/terraform-provider-jq](https://github.com/massdriver-cloud/terraform-provider-jq)
 3. 💪 Opened PR [#197](https://github.com/scraly/developers-conferences-agenda/pull/197) in [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda)
 4. 💪 Opened PR [#6](https://github.com/andregri/andregri.github.io/pull/6) in [andregri/andregri.github.io](https://github.com/andregri/andregri.github.io)
 5. 🎉 Merged PR [#5](https://github.com/andregri/andregri.github.io/pull/5) in [andregri/andregri.github.io](https://github.com/andregri/andregri.github.io)
