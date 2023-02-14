@@ -33,11 +33,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## 📰 Recent articles on my Blog
 
  <!-- BLOG-POST-LIST:START -->
+- [Customize Go tests with Flag options](https://andregri.github.io/go-test-options/)
 - [Kubernetes The Hard Way - Write Ansible inventory from template with Terraform](https://andregri.github.io/kthw-terraform-template/)
 - [Inspecting HTTP Cache-Control](https://andregri.github.io/httpd-cache-control/)
 - [Host a Go Gin web application with AWS S3 and EC2](https://andregri.github.io/Host-webapp-in-S3-and-EC2/)
 - [Github ci/cd pipeline to deploy Azure App Service](https://andregri.github.io/Pipeline-to-deploy-App-Service/)
-- [Merging a local repository to an existing remote repository](https://andregri.github.io/Merge-local-repository-to-existing-remote-repository/)
 <!-- BLOG-POST-LIST:END -->
  
  
