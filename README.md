@@ -40,11 +40,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16745](https://github.com/docker/docs/pull/16745) in [docker/docs](https://github.com/docker/docs)
-2. ❗️ Opened issue [#16744](https://github.com/docker/docs/issues/16744) in [docker/docs](https://github.com/docker/docs)
-3. 🗣 Commented on [#71](https://github.com/spf13/cobra-cli/issues/71) in [spf13/cobra-cli](https://github.com/spf13/cobra-cli)
-4. 💪 Opened PR [#71](https://github.com/spf13/cobra-cli/pull/71) in [spf13/cobra-cli](https://github.com/spf13/cobra-cli)
-5. 🗣 Commented on [#4036](https://github.com/docker/cli/issues/4036) in [docker/cli](https://github.com/docker/cli)
+1. 💪 Opened PR [#805](https://github.com/goss-org/goss/pull/805) in [goss-org/goss](https://github.com/goss-org/goss)
+2. 💪 Opened PR [#16745](https://github.com/docker/docs/pull/16745) in [docker/docs](https://github.com/docker/docs)
+3. ❗️ Opened issue [#16744](https://github.com/docker/docs/issues/16744) in [docker/docs](https://github.com/docker/docs)
+4. 🗣 Commented on [#71](https://github.com/spf13/cobra-cli/issues/71) in [spf13/cobra-cli](https://github.com/spf13/cobra-cli)
+5. 💪 Opened PR [#71](https://github.com/spf13/cobra-cli/pull/71) in [spf13/cobra-cli](https://github.com/spf13/cobra-cli)
 <!--END_SECTION:activity-->
  
 ---
