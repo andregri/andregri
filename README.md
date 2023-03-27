@@ -40,11 +40,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/andregri/ddive/pull/1) in [andregri/ddive](https://github.com/andregri/ddive)
-2. ❌ Closed PR [#438](https://github.com/wagoodman/dive/pull/438) in [wagoodman/dive](https://github.com/wagoodman/dive)
-3. 💪 Opened PR [#438](https://github.com/wagoodman/dive/pull/438) in [wagoodman/dive](https://github.com/wagoodman/dive)
-4. 🗣 Commented on [#3250](https://github.com/kubernetes-sigs/kubebuilder/issues/3250) in [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
-5. 🗣 Commented on [#710](https://github.com/bats-core/bats-core/issues/710) in [bats-core/bats-core](https://github.com/bats-core/bats-core)
+1. ❗️ Closed issue [#45215](https://github.com/moby/moby/issues/45215) in [moby/moby](https://github.com/moby/moby)
+2. ❗️ Opened issue [#45215](https://github.com/moby/moby/issues/45215) in [moby/moby](https://github.com/moby/moby)
+3. 🎉 Merged PR [#1](https://github.com/andregri/ddive/pull/1) in [andregri/ddive](https://github.com/andregri/ddive)
+4. 💪 Opened PR [#1](https://github.com/andregri/ddive/pull/1) in [andregri/ddive](https://github.com/andregri/ddive)
+5. ❌ Closed PR [#438](https://github.com/wagoodman/dive/pull/438) in [wagoodman/dive](https://github.com/wagoodman/dive)
 <!--END_SECTION:activity-->
  
 ---
