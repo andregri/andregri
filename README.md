@@ -40,11 +40,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#45215](https://github.com/moby/moby/issues/45215) in [moby/moby](https://github.com/moby/moby)
-2. ❗️ Opened issue [#45215](https://github.com/moby/moby/issues/45215) in [moby/moby](https://github.com/moby/moby)
-3. 🎉 Merged PR [#1](https://github.com/andregri/ddive/pull/1) in [andregri/ddive](https://github.com/andregri/ddive)
-4. 💪 Opened PR [#1](https://github.com/andregri/ddive/pull/1) in [andregri/ddive](https://github.com/andregri/ddive)
-5. ❌ Closed PR [#438](https://github.com/wagoodman/dive/pull/438) in [wagoodman/dive](https://github.com/wagoodman/dive)
+1. ❗️ Closed issue [#9](https://github.com/krateoplatformops/krateo-docs/issues/9) in [krateoplatformops/krateo-docs](https://github.com/krateoplatformops/krateo-docs)
+2. 🗣 Commented on [#9](https://github.com/krateoplatformops/krateo-docs/issues/9) in [krateoplatformops/krateo-docs](https://github.com/krateoplatformops/krateo-docs)
+3. 🗣 Commented on [#9](https://github.com/krateoplatformops/krateo-docs/issues/9) in [krateoplatformops/krateo-docs](https://github.com/krateoplatformops/krateo-docs)
+4. 🗣 Commented on [#9](https://github.com/krateoplatformops/krateo-docs/issues/9) in [krateoplatformops/krateo-docs](https://github.com/krateoplatformops/krateo-docs)
+5. 🗣 Commented on [#9](https://github.com/krateoplatformops/krateo-docs/issues/9) in [krateoplatformops/krateo-docs](https://github.com/krateoplatformops/krateo-docs)
 <!--END_SECTION:activity-->
  
 ---
