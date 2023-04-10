@@ -40,8 +40,8 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/krateoplatformops/krateo-docs/issues/9) in [krateoplatformops/krateo-docs](https://github.com/krateoplatformops/krateo-docs)
-2. 🗣 Commented on [#9](https://github.com/krateoplatformops/krateo-docs/issues/9) in [krateoplatformops/krateo-docs](https://github.com/krateoplatformops/krateo-docs)
+1. ❗️ Opened issue [#2](https://github.com/andregri/ddive/issues/2) in [andregri/ddive](https://github.com/andregri/ddive)
+2. ❗️ Closed issue [#9](https://github.com/krateoplatformops/krateo-docs/issues/9) in [krateoplatformops/krateo-docs](https://github.com/krateoplatformops/krateo-docs)
 3. 🗣 Commented on [#9](https://github.com/krateoplatformops/krateo-docs/issues/9) in [krateoplatformops/krateo-docs](https://github.com/krateoplatformops/krateo-docs)
 4. 🗣 Commented on [#9](https://github.com/krateoplatformops/krateo-docs/issues/9) in [krateoplatformops/krateo-docs](https://github.com/krateoplatformops/krateo-docs)
 5. 🗣 Commented on [#9](https://github.com/krateoplatformops/krateo-docs/issues/9) in [krateoplatformops/krateo-docs](https://github.com/krateoplatformops/krateo-docs)
