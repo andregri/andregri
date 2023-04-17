@@ -40,11 +40,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/andregri/ddive/issues/2) in [andregri/ddive](https://github.com/andregri/ddive)
-2. ❗️ Closed issue [#9](https://github.com/krateoplatformops/krateo-docs/issues/9) in [krateoplatformops/krateo-docs](https://github.com/krateoplatformops/krateo-docs)
-3. 🗣 Commented on [#9](https://github.com/krateoplatformops/krateo-docs/issues/9) in [krateoplatformops/krateo-docs](https://github.com/krateoplatformops/krateo-docs)
-4. 🗣 Commented on [#9](https://github.com/krateoplatformops/krateo-docs/issues/9) in [krateoplatformops/krateo-docs](https://github.com/krateoplatformops/krateo-docs)
-5. 🗣 Commented on [#9](https://github.com/krateoplatformops/krateo-docs/issues/9) in [krateoplatformops/krateo-docs](https://github.com/krateoplatformops/krateo-docs)
+1. 🎉 Merged PR [#14](https://github.com/andregri/andregri.github.io/pull/14) in [andregri/andregri.github.io](https://github.com/andregri/andregri.github.io)
+2. 🎉 Merged PR [#16](https://github.com/andregri/andregri.github.io/pull/16) in [andregri/andregri.github.io](https://github.com/andregri/andregri.github.io)
+3. 🎉 Merged PR [#15](https://github.com/andregri/andregri.github.io/pull/15) in [andregri/andregri.github.io](https://github.com/andregri/andregri.github.io)
+4. ❗️ Opened issue [#2](https://github.com/andregri/ddive/issues/2) in [andregri/ddive](https://github.com/andregri/ddive)
+5. ❗️ Closed issue [#9](https://github.com/krateoplatformops/krateo-docs/issues/9) in [krateoplatformops/krateo-docs](https://github.com/krateoplatformops/krateo-docs)
 <!--END_SECTION:activity-->
  
 ---
