@@ -40,11 +40,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/andregri/andregri.github.io/pull/14) in [andregri/andregri.github.io](https://github.com/andregri/andregri.github.io)
-2. 🎉 Merged PR [#16](https://github.com/andregri/andregri.github.io/pull/16) in [andregri/andregri.github.io](https://github.com/andregri/andregri.github.io)
-3. 🎉 Merged PR [#15](https://github.com/andregri/andregri.github.io/pull/15) in [andregri/andregri.github.io](https://github.com/andregri/andregri.github.io)
-4. ❗️ Opened issue [#2](https://github.com/andregri/ddive/issues/2) in [andregri/ddive](https://github.com/andregri/ddive)
-5. ❗️ Closed issue [#9](https://github.com/krateoplatformops/krateo-docs/issues/9) in [krateoplatformops/krateo-docs](https://github.com/krateoplatformops/krateo-docs)
+1. 🎉 Merged PR [#1](https://github.com/andregri/content-gitops/pull/1) in [andregri/content-gitops](https://github.com/andregri/content-gitops)
+2. 💪 Opened PR [#1](https://github.com/andregri/content-gitops/pull/1) in [andregri/content-gitops](https://github.com/andregri/content-gitops)
+3. 💪 Opened PR [#1](https://github.com/krateoplatformops/krateo-template-fireworksapp/pull/1) in [krateoplatformops/krateo-template-fireworksapp](https://github.com/krateoplatformops/krateo-template-fireworksapp)
+4. 🗣 Commented on [#4036](https://github.com/docker/cli/issues/4036) in [docker/cli](https://github.com/docker/cli)
+5. 🎉 Merged PR [#14](https://github.com/andregri/andregri.github.io/pull/14) in [andregri/andregri.github.io](https://github.com/andregri/andregri.github.io)
 <!--END_SECTION:activity-->
  
 ---
