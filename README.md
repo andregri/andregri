@@ -40,11 +40,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/andregri/content-gitops/pull/1) in [andregri/content-gitops](https://github.com/andregri/content-gitops)
-2. 💪 Opened PR [#1](https://github.com/andregri/content-gitops/pull/1) in [andregri/content-gitops](https://github.com/andregri/content-gitops)
-3. 💪 Opened PR [#1](https://github.com/krateoplatformops/krateo-template-fireworksapp/pull/1) in [krateoplatformops/krateo-template-fireworksapp](https://github.com/krateoplatformops/krateo-template-fireworksapp)
-4. 🗣 Commented on [#4036](https://github.com/docker/cli/issues/4036) in [docker/cli](https://github.com/docker/cli)
-5. 🎉 Merged PR [#14](https://github.com/andregri/andregri.github.io/pull/14) in [andregri/andregri.github.io](https://github.com/andregri/andregri.github.io)
+1. 🎉 Merged PR [#2](https://github.com/andregri/ebird-telegram-bot/pull/2) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
+2. 💪 Opened PR [#2](https://github.com/andregri/ebird-telegram-bot/pull/2) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
+3. 🎉 Merged PR [#1](https://github.com/andregri/ebird-telegram-bot/pull/1) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
+4. 💪 Opened PR [#1](https://github.com/andregri/ebird-telegram-bot/pull/1) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
+5. 🎉 Merged PR [#1](https://github.com/andregri/argocd-example-apps/pull/1) in [andregri/argocd-example-apps](https://github.com/andregri/argocd-example-apps)
 <!--END_SECTION:activity-->
  
 ---
