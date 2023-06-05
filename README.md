@@ -40,11 +40,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/andregri/ebird-telegram-bot/pull/2) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
-2. 💪 Opened PR [#2](https://github.com/andregri/ebird-telegram-bot/pull/2) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
-3. 🎉 Merged PR [#1](https://github.com/andregri/ebird-telegram-bot/pull/1) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
-4. 💪 Opened PR [#1](https://github.com/andregri/ebird-telegram-bot/pull/1) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
-5. 🎉 Merged PR [#1](https://github.com/andregri/argocd-example-apps/pull/1) in [andregri/argocd-example-apps](https://github.com/andregri/argocd-example-apps)
+1. 🎉 Merged PR [#4](https://github.com/andregri/ebird-telegram-bot/pull/4) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
+2. 💪 Opened PR [#4](https://github.com/andregri/ebird-telegram-bot/pull/4) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
+3. 🗣 Commented on [#805](https://github.com/goss-org/goss/issues/805) in [goss-org/goss](https://github.com/goss-org/goss)
+4. 🎉 Merged PR [#3](https://github.com/andregri/ebird-telegram-bot/pull/3) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
+5. 💪 Opened PR [#3](https://github.com/andregri/ebird-telegram-bot/pull/3) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
 <!--END_SECTION:activity-->
  
 ---
