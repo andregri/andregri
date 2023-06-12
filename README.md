@@ -40,11 +40,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/andregri/ebird-telegram-bot/pull/4) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
-2. 💪 Opened PR [#4](https://github.com/andregri/ebird-telegram-bot/pull/4) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
-3. 🗣 Commented on [#805](https://github.com/goss-org/goss/issues/805) in [goss-org/goss](https://github.com/goss-org/goss)
-4. 🎉 Merged PR [#3](https://github.com/andregri/ebird-telegram-bot/pull/3) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
-5. 💪 Opened PR [#3](https://github.com/andregri/ebird-telegram-bot/pull/3) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
+1. ❗ Opened issue [#1](https://github.com/andregri/fantablog/issues/1) in [andregri/fantablog](https://github.com/andregri/fantablog)
+2. 🎉 Merged PR [#4](https://github.com/andregri/ebird-telegram-bot/pull/4) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
+3. 💪 Opened PR [#4](https://github.com/andregri/ebird-telegram-bot/pull/4) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
+4. 🗣 Commented on [#805](https://github.com/goss-org/goss/issues/805) in [goss-org/goss](https://github.com/goss-org/goss)
+5. 🎉 Merged PR [#3](https://github.com/andregri/ebird-telegram-bot/pull/3) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
 <!--END_SECTION:activity-->
  
 ---
