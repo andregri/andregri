@@ -29,11 +29,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## 📰 Recent articles on my Blog
 
  <!-- BLOG-POST-LIST:START -->
+- [Manage permitted destination of an ArgoCD Project](https://andregri.github.io/argocd-project-permitted-destination/)
 - [Mocking Python functions](https://andregri.github.io/python-mock/)
 - [Troubleshooting Kyverno webhooks](https://andregri.github.io/troubleshooting-kyverno-webhooks/)
 - [How to use Terraform for_each correctly](https://andregri.github.io/terraform-for-each/)
 - [Testing Kubernetes resources with Kuttl](https://andregri.github.io/testing-kubernetes-with-kuttl/)
-- [Testing Infrastructure as Code with Python](https://andregri.github.io/testing-iac-with-python/)
 <!-- BLOG-POST-LIST:END -->
  
  
