@@ -29,11 +29,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## 📰 Recent articles on my Blog
 
  <!-- BLOG-POST-LIST:START -->
+- [Change Kubernetes service type from LoadBalancer to NodePort and viceversa](https://andregri.github.io/kubernetes-change-service-type/)
 - [Kubernetes ephemeral containers](https://andregri.github.io/kubernetes-ephemeral-container/)
 - [Kubernetes operator from scratch](https://andregri.github.io/kubernetes-operator-from-scratch/)
 - [Makefile tips](https://andregri.github.io/makefile-tips/)
 - [Install Kyverno with an ArgoCD ApplicationSet](https://andregri.github.io/argocd-applicationset-to-install-argocd/)
-- [Manage permitted destination of an ArgoCD Project](https://andregri.github.io/argocd-project-permitted-destination/)
 <!-- BLOG-POST-LIST:END -->
  
  
