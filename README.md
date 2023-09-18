@@ -40,7 +40,7 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/andregri/ebird-telegram-bot/pull/5) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
+1. 🗣 Commented on [#1](https://github.com/andregri/fantacalcio-voti-live/issues/1#issuecomment-1715067640) in [andregri/fantacalcio-voti-live](https://github.com/andregri/fantacalcio-voti-live)
 2. 💪 Opened PR [#5](https://github.com/andregri/ebird-telegram-bot/pull/5) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
 3. ❗ Opened issue [#1](https://github.com/andregri/fantablog/issues/1) in [andregri/fantablog](https://github.com/andregri/fantablog)
 4. 🎉 Merged PR [#4](https://github.com/andregri/ebird-telegram-bot/pull/4) in [andregri/ebird-telegram-bot](https://github.com/andregri/ebird-telegram-bot)
