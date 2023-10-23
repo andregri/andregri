@@ -40,11 +40,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/andregri/fantacalcio-voti-live/issues/5#issuecomment-1762956677) in [andregri/fantacalcio-voti-live](https://github.com/andregri/fantacalcio-voti-live)
-2. 🗣 Commented on [#4](https://github.com/andregri/fantacalcio-voti-live/issues/4#issuecomment-1762956347) in [andregri/fantacalcio-voti-live](https://github.com/andregri/fantacalcio-voti-live)
-3. 🗣 Commented on [#4](https://github.com/andregri/fantacalcio-voti-live/issues/4#issuecomment-1762892355) in [andregri/fantacalcio-voti-live](https://github.com/andregri/fantacalcio-voti-live)
-4. 🎉 Merged PR [#3](https://github.com/andregri/fantacalcio-voti-live/pull/3) in [andregri/fantacalcio-voti-live](https://github.com/andregri/fantacalcio-voti-live)
-5. 💪 Opened PR [#3](https://github.com/andregri/fantacalcio-voti-live/pull/3) in [andregri/fantacalcio-voti-live](https://github.com/andregri/fantacalcio-voti-live)
+1. 🗣 Commented on [#7](https://github.com/andregri/fantacalcio-voti-live/issues/7#issuecomment-1774055213) in [andregri/fantacalcio-voti-live](https://github.com/andregri/fantacalcio-voti-live)
+2. 🗣 Commented on [#8](https://github.com/andregri/fantacalcio-voti-live/pull/8#issuecomment-1774018994) in [andregri/fantacalcio-voti-live](https://github.com/andregri/fantacalcio-voti-live)
+3. 🎉 Merged PR [#8](https://github.com/andregri/fantacalcio-voti-live/pull/8) in [andregri/fantacalcio-voti-live](https://github.com/andregri/fantacalcio-voti-live)
+4. 🔓 Reopened issue [#7](https://github.com/andregri/fantacalcio-voti-live/issues/7) in [andregri/fantacalcio-voti-live](https://github.com/andregri/fantacalcio-voti-live)
+5. 🗣 Commented on [#7](https://github.com/andregri/fantacalcio-voti-live/issues/7#issuecomment-1773860053) in [andregri/fantacalcio-voti-live](https://github.com/andregri/fantacalcio-voti-live)
 <!--END_SECTION:activity-->
  
 ---
