@@ -29,11 +29,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## 📰 Recent articles on my Blog
 
  <!-- BLOG-POST-LIST:START -->
+- [Implementing an HTTP proxy in Go](https://andregri.github.io/http-proxy-in-go/)
 - [Avoid name conflicts in Terraform workspaces](https://andregri.github.io/avoid-name-conflicts-in-terraform-workspace/)
 - [Change Kubernetes service type from LoadBalancer to NodePort and viceversa](https://andregri.github.io/kubernetes-change-service-type/)
 - [Kubernetes ephemeral containers](https://andregri.github.io/kubernetes-ephemeral-container/)
 - [Kubernetes operator from scratch](https://andregri.github.io/kubernetes-operator-from-scratch/)
-- [Makefile tips](https://andregri.github.io/makefile-tips/)
 <!-- BLOG-POST-LIST:END -->
  
  
