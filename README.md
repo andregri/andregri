@@ -40,11 +40,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/andregri/fantablog/pull/5) in [andregri/fantablog](https://github.com/andregri/fantablog)
-2. 💪 Opened PR [#5](https://github.com/andregri/fantablog/pull/5) in [andregri/fantablog](https://github.com/andregri/fantablog)
-3. 🎉 Merged PR [#4](https://github.com/andregri/fantablog/pull/4) in [andregri/fantablog](https://github.com/andregri/fantablog)
-4. 💪 Opened PR [#4](https://github.com/andregri/fantablog/pull/4) in [andregri/fantablog](https://github.com/andregri/fantablog)
-5. 🗣 Commented on [#8](https://github.com/andregri/fantacalcio-voti-live/pull/8#issuecomment-1774018994) in [andregri/fantacalcio-voti-live](https://github.com/andregri/fantacalcio-voti-live)
+1. 🎉 Merged PR [#18](https://github.com/andregri/andregri.github.io/pull/18) in [andregri/andregri.github.io](https://github.com/andregri/andregri.github.io)
+2. 💪 Opened PR [#18](https://github.com/andregri/andregri.github.io/pull/18) in [andregri/andregri.github.io](https://github.com/andregri/andregri.github.io)
+3. 🎉 Merged PR [#5](https://github.com/andregri/fantablog/pull/5) in [andregri/fantablog](https://github.com/andregri/fantablog)
+4. 💪 Opened PR [#5](https://github.com/andregri/fantablog/pull/5) in [andregri/fantablog](https://github.com/andregri/fantablog)
+5. 🎉 Merged PR [#4](https://github.com/andregri/fantablog/pull/4) in [andregri/fantablog](https://github.com/andregri/fantablog)
 <!--END_SECTION:activity-->
  
 ---
