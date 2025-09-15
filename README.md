@@ -40,7 +40,7 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/andregri/skills-introduction-to-codeql/pull/2) in [andregri/skills-introduction-to-codeql](https://github.com/andregri/skills-introduction-to-codeql)
+1. 💪 Opened PR [#60](https://github.com/kiratech/labs/pull/60) in [kiratech/labs](https://github.com/kiratech/labs)
 2. ❗ Opened issue [#1](https://github.com/andregri/skills-introduction-to-codeql/issues/1) in [andregri/skills-introduction-to-codeql](https://github.com/andregri/skills-introduction-to-codeql)
 3. 🗣 Commented on [#1](https://github.com/andregri/skills-introduction-to-secret-scanning/issues/1#issuecomment-2900660134) in [andregri/skills-introduction-to-secret-scanning](https://github.com/andregri/skills-introduction-to-secret-scanning)
 4. 🎉 Merged PR [#5](https://github.com/andregri/skills-secure-repository-supply-chain/pull/5) in [andregri/skills-secure-repository-supply-chain](https://github.com/andregri/skills-secure-repository-supply-chain)
