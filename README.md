@@ -40,11 +40,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#60](https://github.com/kiratech/labs/pull/60) in [kiratech/labs](https://github.com/kiratech/labs)
-2. ❗ Opened issue [#1](https://github.com/andregri/skills-introduction-to-codeql/issues/1) in [andregri/skills-introduction-to-codeql](https://github.com/andregri/skills-introduction-to-codeql)
-3. 🗣 Commented on [#1](https://github.com/andregri/skills-introduction-to-secret-scanning/issues/1#issuecomment-2900660134) in [andregri/skills-introduction-to-secret-scanning](https://github.com/andregri/skills-introduction-to-secret-scanning)
-4. 🎉 Merged PR [#5](https://github.com/andregri/skills-secure-repository-supply-chain/pull/5) in [andregri/skills-secure-repository-supply-chain](https://github.com/andregri/skills-secure-repository-supply-chain)
-5. 🎉 Merged PR [#3](https://github.com/andregri/skills-secure-repository-supply-chain/pull/3) in [andregri/skills-secure-repository-supply-chain](https://github.com/andregri/skills-secure-repository-supply-chain)
+1. 🗣 Commented on [#2963](https://github.com/grafana/beyla/issues/2963#issuecomment-4980987547) in [grafana/beyla](https://github.com/grafana/beyla)
+2. 🗣 Commented on [#2963](https://github.com/grafana/beyla/issues/2963#issuecomment-4980660387) in [grafana/beyla](https://github.com/grafana/beyla)
+3. 🔒 Closed issue [#2963](https://github.com/grafana/beyla/issues/2963) in [grafana/beyla](https://github.com/grafana/beyla)
+4. 🗣 Commented on [#2963](https://github.com/grafana/beyla/issues/2963#issuecomment-4979561774) in [grafana/beyla](https://github.com/grafana/beyla)
+5. 🗣 Commented on [#2963](https://github.com/grafana/beyla/issues/2963#issuecomment-4966705802) in [grafana/beyla](https://github.com/grafana/beyla)
 <!--END_SECTION:activity-->
  
 ---
