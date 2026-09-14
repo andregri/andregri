@@ -40,11 +40,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2963](https://github.com/grafana/beyla/issues/2963#issuecomment-4980987547) in [grafana/beyla](https://github.com/grafana/beyla)
-2. 🗣 Commented on [#2963](https://github.com/grafana/beyla/issues/2963#issuecomment-4980660387) in [grafana/beyla](https://github.com/grafana/beyla)
-3. 🔒 Closed issue [#2963](https://github.com/grafana/beyla/issues/2963) in [grafana/beyla](https://github.com/grafana/beyla)
-4. 🗣 Commented on [#2963](https://github.com/grafana/beyla/issues/2963#issuecomment-4979561774) in [grafana/beyla](https://github.com/grafana/beyla)
-5. 🗣 Commented on [#2963](https://github.com/grafana/beyla/issues/2963#issuecomment-4966705802) in [grafana/beyla](https://github.com/grafana/beyla)
+1. 🎉 Merged PR [#3](https://github.com/andregri/terraform-azure-infrastructure/pull/3) in [andregri/terraform-azure-infrastructure](https://github.com/andregri/terraform-azure-infrastructure)
+2. 💪 Opened PR [#3](https://github.com/andregri/terraform-azure-infrastructure/pull/3) in [andregri/terraform-azure-infrastructure](https://github.com/andregri/terraform-azure-infrastructure)
+3. 🎉 Merged PR [#2](https://github.com/andregri/terraform-azure-infrastructure/pull/2) in [andregri/terraform-azure-infrastructure](https://github.com/andregri/terraform-azure-infrastructure)
+4. 💪 Opened PR [#2](https://github.com/andregri/terraform-azure-infrastructure/pull/2) in [andregri/terraform-azure-infrastructure](https://github.com/andregri/terraform-azure-infrastructure)
+5. 🎉 Merged PR [#1](https://github.com/andregri/terraform-azure-infrastructure/pull/1) in [andregri/terraform-azure-infrastructure](https://github.com/andregri/terraform-azure-infrastructure)
 <!--END_SECTION:activity-->
  
 ---
