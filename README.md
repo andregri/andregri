@@ -40,11 +40,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/andregri/terraform-azure-infrastructure/pull/3) in [andregri/terraform-azure-infrastructure](https://github.com/andregri/terraform-azure-infrastructure)
-2. 💪 Opened PR [#3](https://github.com/andregri/terraform-azure-infrastructure/pull/3) in [andregri/terraform-azure-infrastructure](https://github.com/andregri/terraform-azure-infrastructure)
-3. 🎉 Merged PR [#2](https://github.com/andregri/terraform-azure-infrastructure/pull/2) in [andregri/terraform-azure-infrastructure](https://github.com/andregri/terraform-azure-infrastructure)
-4. 💪 Opened PR [#2](https://github.com/andregri/terraform-azure-infrastructure/pull/2) in [andregri/terraform-azure-infrastructure](https://github.com/andregri/terraform-azure-infrastructure)
-5. 🎉 Merged PR [#1](https://github.com/andregri/terraform-azure-infrastructure/pull/1) in [andregri/terraform-azure-infrastructure](https://github.com/andregri/terraform-azure-infrastructure)
+1. ❌ Closed PR [#1](https://github.com/andregri/terraform-module-azure-vm/pull/1) in [andregri/terraform-module-azure-vm](https://github.com/andregri/terraform-module-azure-vm)
+2. 💪 Opened PR [#1](https://github.com/andregri/terraform-module-azure-vm/pull/1) in [andregri/terraform-module-azure-vm](https://github.com/andregri/terraform-module-azure-vm)
+3. 🎉 Merged PR [#5](https://github.com/andregri/terraform-azure-infrastructure/pull/5) in [andregri/terraform-azure-infrastructure](https://github.com/andregri/terraform-azure-infrastructure)
+4. 💪 Opened PR [#5](https://github.com/andregri/terraform-azure-infrastructure/pull/5) in [andregri/terraform-azure-infrastructure](https://github.com/andregri/terraform-azure-infrastructure)
+5. 🎉 Merged PR [#4](https://github.com/andregri/terraform-azure-infrastructure/pull/4) in [andregri/terraform-azure-infrastructure](https://github.com/andregri/terraform-azure-infrastructure)
 <!--END_SECTION:activity-->
  
 ---
