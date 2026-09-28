@@ -40,11 +40,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## :octocat: Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/andregri/terraform-module-azure-vm/pull/1) in [andregri/terraform-module-azure-vm](https://github.com/andregri/terraform-module-azure-vm)
-2. 💪 Opened PR [#1](https://github.com/andregri/terraform-module-azure-vm/pull/1) in [andregri/terraform-module-azure-vm](https://github.com/andregri/terraform-module-azure-vm)
-3. 🎉 Merged PR [#5](https://github.com/andregri/terraform-azure-infrastructure/pull/5) in [andregri/terraform-azure-infrastructure](https://github.com/andregri/terraform-azure-infrastructure)
-4. 💪 Opened PR [#5](https://github.com/andregri/terraform-azure-infrastructure/pull/5) in [andregri/terraform-azure-infrastructure](https://github.com/andregri/terraform-azure-infrastructure)
-5. 🎉 Merged PR [#4](https://github.com/andregri/terraform-azure-infrastructure/pull/4) in [andregri/terraform-azure-infrastructure](https://github.com/andregri/terraform-azure-infrastructure)
+1. ℹ️ Labeled issue [#16704](https://github.com/grafana/mimir/issues/16704) in [grafana/mimir](https://github.com/grafana/mimir)
+2. ❗ Opened issue [#16704](https://github.com/grafana/mimir/issues/16704) in [grafana/mimir](https://github.com/grafana/mimir)
+3. ❌ Closed PR [#1](https://github.com/andregri/terraform-module-azure-vm/pull/1) in [andregri/terraform-module-azure-vm](https://github.com/andregri/terraform-module-azure-vm)
+4. 💪 Opened PR [#1](https://github.com/andregri/terraform-module-azure-vm/pull/1) in [andregri/terraform-module-azure-vm](https://github.com/andregri/terraform-module-azure-vm)
+5. 🎉 Merged PR [#5](https://github.com/andregri/terraform-azure-infrastructure/pull/5) in [andregri/terraform-azure-infrastructure](https://github.com/andregri/terraform-azure-infrastructure)
 <!--END_SECTION:activity-->
  
 ---
