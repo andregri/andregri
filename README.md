@@ -29,11 +29,11 @@ My favorite ones are C++, Python, Go, and Docker.
 ## 📰 Recent articles on my Blog
 
  <!-- BLOG-POST-LIST:START -->
+- [Deploy a RKE2 kubernetes cluster with Rancher on Azure](https://andregri.github.io/tf-rke2-rancher/)
 - [Argocd CAPA Certification Training - Workflows](https://andregri.github.io/argocd-capa-certification-training-workflows/)
 - [Implementing an HTTP proxy in Go](https://andregri.github.io/http-proxy-in-go/)
 - [Avoid name conflicts in Terraform workspaces](https://andregri.github.io/avoid-name-conflicts-in-terraform-workspace/)
 - [Change Kubernetes service type from LoadBalancer to NodePort and viceversa](https://andregri.github.io/kubernetes-change-service-type/)
-- [Kubernetes ephemeral containers](https://andregri.github.io/kubernetes-ephemeral-container/)
 <!-- BLOG-POST-LIST:END -->
  
  
